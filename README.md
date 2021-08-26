@@ -1,0 +1,2 @@
+# halffacebot
+ buys knives automagically
